@@ -9,9 +9,13 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 
 ## Algorithm
 1.import the required packages.
+
 2.Read the data set.
+
 3.Apply label encoder to the non-numerical column inoreder to convert into numerical values.
+
 4.Determine training and test data set.
+
 5.Apply decision tree Classifier and get the values of accuracy and data prediction.
 
 ## Program:
